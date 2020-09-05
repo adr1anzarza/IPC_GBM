@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DatesGMB</string>
+    <string name="price">Price: \$ %s</string>
+    <string name="percentChange">Percent Change: %% %s</string>
+    <string name="volume">Volume: %s</string>
+    <string name="change">Change: %s</string>
+    <string name="show_graph">Show Graph</string>
+    <string name="show_table">Show Table</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+</resources>
